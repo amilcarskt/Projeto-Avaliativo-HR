@@ -1,0 +1,18 @@
+# Ignore everything in the user folder by default
+/*
+
+# Whitelist project files and folders
+!/sql/
+!/data/
+!/img/
+!/analise_rh.py
+!/analise_rh.ipynb
+!/requirements.txt
+!/README.md
+!/ROTEIRO_APRESENTACAO.md
+!/.gitignore
+
+# Ignore Python caches and checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
