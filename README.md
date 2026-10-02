@@ -191,8 +191,8 @@ A análise foi implementada tanto em script Python modular (`analise_rh.py`) qua
 ### Passo a Passo:
 1. **Clone o repositório:**
    ```bash
-   git clone git@github.com:amilcarskt/Projeto-Avaliativo-Modulo-1.git
-   cd Projeto-Avaliativo-Modulo-1
+   git clone git@github.com:amilcarskt/Projeto-Avaliativo-HR.git
+   cd Projeto-Avaliativo-HR
    ```
 
 2. **Instale as dependências:**
@@ -227,7 +227,7 @@ A análise foi implementada tanto em script Python modular (`analise_rh.py`) qua
 ## 8. Estrutura de Arquivos do Repositório
 
 ```text
-Projeto-Avaliativo-Modulo-1/
+Projeto-Avaliativo-HR/
 ├── data/
 │   ├── query_01.csv               # Dados extraídos da Query 1 (106 colaboradores)
 │   └── query_02.csv               # Dados extraídos da Query 2 (106 colaboradores)
